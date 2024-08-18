@@ -1,0 +1,27 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top:auto
+  }
+  
+  .pagination button,
+  .pagination select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .pagination button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .pagination select {
+    padding: 4px;
+  }
+  
+  .pagination span {
+    font-weight: bold;
+  }

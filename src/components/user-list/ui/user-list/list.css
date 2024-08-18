@@ -1,0 +1,13 @@
+.user-list {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+    overflow-y: auto;
+  }
+  
+.user-list li {
+    margin-bottom: 10px;
+  }
+.error{
+  color: red;
+}
